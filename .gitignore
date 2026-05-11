@@ -1,1 +1,4 @@
-Nothing needs to be added to the .gitignore file based on the provided file changes. The deletion of 'test_file.txt' does not warrant adding any ignore rules, and there are no build artifacts, dependency directories, or temporary files in the changes that would require ignoring.
+```markdown
+# Research Part - Generated content
+Prompts/Research_Part/
+```
