@@ -1,2 +1,0 @@
-This is a test file created by Qwen agent to verify git branch functionality.
-Self-made commit by Qwen.
