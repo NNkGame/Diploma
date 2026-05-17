@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 YaBrowser/26.4.0.0 Safari/537.36">
+  <diagram name="Страница-1" id="a1wfaAFXtBteQ6gnfk7R">
+    <mxGraphModel dx="710" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-7" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-17" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;&amp;nbsp;отправляет запросы действий&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-22" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;&amp;nbsp;отправляет запросы&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="2" y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-23" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;&amp;nbsp;отправляет запросы&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="242" y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-24" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;возвращает ответы&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="102" y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-25" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;возвращает ответы&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="152" y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2rgJU0j_7YvXwoG1IAu-1" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif&quot;&gt;&lt;span style=&quot;white-space: pre-line;&quot;&gt;отправляет ответы&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="122" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2rgJU0j_7YvXwoG1IAu-2" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif&quot;&gt;&lt;span style=&quot;white-space: pre-line;&quot;&gt;запрашивает данные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="122" y="-100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2rgJU0j_7YvXwoG1IAu-3" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;запрос на рекомендации&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="122" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2rgJU0j_7YvXwoG1IAu-4" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=default;fontColor=default;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre-line;&quot;&gt;&lt;font face=&quot;system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif&quot;&gt;возврат результата&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2034" y="-2" as="geometry">
+            <mxPoint x="122" y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-9" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Клиент" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-8" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-20" connectable="0" parent="5RRy_32E6O1MQdjWZkQl-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; text-align: start; white-space: pre-line;&quot;&gt;возвращает данные или статус действия&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0206" y="-2" as="geometry">
+            <mxPoint x="28" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-11" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-13" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Сервер" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-12" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-16" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Интеллектуальный модуль" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-14" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-15" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="База данных" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-10" edge="1" parent="1" source="5RRy_32E6O1MQdjWZkQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="5RRy_32E6O1MQdjWZkQl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RRy_32E6O1MQdjWZkQl-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Внешний сервис" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
